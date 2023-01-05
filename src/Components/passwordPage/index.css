@@ -1,0 +1,141 @@
+/* * {
+  border: 1px solid red;
+} */
+
+.password-section-img {
+  width: 50%;
+  text-align: center;
+}
+.password-img {
+  width: 90%;
+  height: 500px;
+}
+
+.main-bg {
+  background-color: #9ba9eb;
+  padding: 20px 120px 20px 120px;
+  min-height: 100vh;
+}
+
+.logo {
+  height: 100px;
+}
+
+.input-form {
+  display: flex;
+
+  width: 95%;
+  margin: 20px 15px 20px 15px;
+  background-color: #f8fafc;
+  border-radius: 5px 8px 8px 5px;
+  height: 50px;
+}
+.input {
+  width: 100%;
+  border-radius: 5px 8px 8px 5px;
+  font-size: 20px;
+  background-color: #f8fafc;
+  border-style: none;
+  border-width: 0px;
+}
+.form-bg {
+  background-color: #454f84;
+  width: 700px;
+  font-family: 'Roboto';
+  color: #f8fafc;
+  padding: 20px;
+}
+.input-img {
+  height: 30px;
+}
+.button-container {
+  text-align: right;
+}
+.submit-btn {
+  background-color: #0b69ff;
+  padding: 10px;
+  border-width: 0px;
+  border-style: none;
+  cursor: pointer;
+  width: 100px;
+  border-radius: 8px;
+  margin-right: 20px;
+}
+.container-1 {
+  background-color: #5763a5;
+  display: flex;
+  justify-content: space-around;
+  padding: 50px;
+  align-items: center;
+  margin: 20px;
+  border-radius: 8px;
+  height: 600px;
+}
+
+.container-2 {
+  background-color: #5763a5;
+  margin: 20px;
+  border-radius: 7px;
+  height: 40%;
+  color: #ffffff;
+  height: 600px;
+  text-align: center;
+}
+.c2-header {
+  display: flex;
+  justify-content: space-between;
+}
+.show-password-section {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+.password-label {
+  display: flex;
+  justify-content: center;
+}
+.check-box {
+  cursor: pointer;
+  height: 20px;
+  width: 20px;
+}
+.list-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.horizontal {
+  display: flex;
+  height: 30px;
+  background-color: #f8fafc;
+}
+.h2 {
+  display: flex;
+  padding: 0px;
+}
+.margin-zero {
+  margin: 0px;
+}
+.count {
+  border-radius: 10px;
+  border-color: #ffffff;
+  border-style: solid;
+  padding: 2px;
+  width: 30px;
+  text-align: center;
+  height: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.toggle-password {
+  text-align: right;
+}
+.img2 {
+  height: 300px;
+  width: 300px;
+}
+.no-password-container {
+  height: ;
+  background-color: #ffffff;
+}
